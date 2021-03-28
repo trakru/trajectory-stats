@@ -1,0 +1,8 @@
+name: skmobaws
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7   # or 2.7
+  - scikit-mobility
+  - awswrangler
+  - conda-lock
